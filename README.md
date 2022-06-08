@@ -23,3 +23,7 @@ https://github.com/JamesFT/Database-Quotes-JSON
 4. Agregamos un Workflow con el siguiente informacion (Nota. La siguiente informacion se consulto en referencias de azure, solo se modificaron ciertos parametros como el nombre de webapp)
 
 ![workflow](./imgReadme/workflow.jpg)
+
+5. Nuestra WebApp nos da una URL, (tambien se ve en la imagen de arriba cuando creamos nuestro azure) **https://launch-x-node-js.azurewebsites.net/**
+
+![webAppDeploy](./imgReadme/webAppDeploy.jpg)
