@@ -20,6 +20,6 @@ https://github.com/JamesFT/Database-Quotes-JSON
 
 ![addSecrets](./imgReadme/addSecret.jpg)
 
-4. Agregamos un Workflow con el siguiente informacion
+4. Agregamos un Workflow con el siguiente informacion (Nota. La siguiente informacion se consulto en referencias de azure, solo se modificaron ciertos parametros como el nombre de webapp)
 
 ![workflow](./imgReadme/workflow.jpg)
